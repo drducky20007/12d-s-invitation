@@ -225,7 +225,7 @@ img {
 @media only screen and (max-width: 414px) and (max-height: 736px) {
   .btn {
     padding: 15px 25px;
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 
@@ -233,7 +233,7 @@ img {
 @media only screen and (min-width: 768px) and (max-width: 1224px) {
   .btn {
     padding: 15px 25px;
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 
@@ -242,7 +242,7 @@ img {
   .btn {
     padding: 12px 20px;
     margin: 30px;
-    font-size: 9px;
+    font-size: 13px;
   }
 }
 
@@ -251,7 +251,7 @@ img {
   .btn {
     padding: 10px 16px;
     margin: 50px;
-    font-size: 9px;
+    font-size: 13px;
   }
 }
 
@@ -260,6 +260,6 @@ img {
   .btn {
     padding: 8px 12px;
     margin: 70px;
-    font-size: 9px;
+    font-size: 13px;
   }
 }
